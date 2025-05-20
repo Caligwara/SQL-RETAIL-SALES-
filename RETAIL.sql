@@ -85,7 +85,7 @@ month(Sale_date)='11'
   and
   Quantiy >= '4'
 
-  ----- style
+  ----- Or
 
    Select * from [SALES RETAIL DATA]
   where 
@@ -170,7 +170,3 @@ else 'Evening'
 end as shift
 from [SALES RETAIL DATA]
 
-select *
-from [SALES RETAIL DATA]
-where Customer_id ='97'
-and category = 'beauty'
