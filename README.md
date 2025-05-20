@@ -1,19 +1,19 @@
 # SQL-RETAIL-SALES
-MY SQL project on a set of retail sales analysis
+My SQL project on a set of retail sales analysis
 
 
-# Project Title: Retail Sales Analysis
+## Project Title: Retail Sales Analysis
 
-# Project Overview
+## Project Overview
 This data analysis project is aim to generate insights into the general sales performance, customer’s interest and market’s trends of a local retail store. Using the various parameters given to analyze, we seek to gather various insights to make compelling insights to make decisions that will improve the performance of the retail store.
-# Data Sources
+## Data Sources
 The data source is an excel csv. File obtained for this project. This file contains information like,
 Transaction id, sale time, sale date, customer id, category, customer age, etc... 
-# Tools Used
+## Tools Used
 - Microsoft Excel for data preparation
 - Microsoft SQL Server for data cleaning, data querying and data analysis
 - Git Hub for portfolio building
-# Objectives
+## Objectives
 Data Preparation: Prepare data for analysis
 Set up a retail sales database: Create and populate a retail sales database with the provided sales data.
 Data Cleaning: Identify and remove any records with missing or null values.
@@ -184,16 +184,16 @@ from [SALES RETAIL DATA]
 ```
 
 
-Findings
-Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
-High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
-Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
-Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
-Reports
-Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
-Trend Analysis: Insights into sales trends across different months and shifts.
-Customer Insights: Reports on top customers and unique customer counts per category.
-Conclusion
-This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
+ ## Findings
+- Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
+- High-Value Transactions: Several transactions had a total sale amount greater than 1000, indicating premium purchases.
+- Sales Trends: Monthly analysis shows variations in sales, helping identify peak seasons.
+- Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
+## Reports
+- Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
+- Trend Analysis: Insights into sales trends across different months and shifts.
+- Customer Insights: Reports on top customers and unique customer counts per category.
+## Conclusion 
+This project provides a comprehensive overview on the business activities of the retail store , covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
 
