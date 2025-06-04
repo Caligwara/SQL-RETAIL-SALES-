@@ -162,7 +162,7 @@ Q8. Write a SQL query to find the top 5 customers based on the highest total sal
 	group by Customer_id
 	order by 2 desc
 ```	
-Q9. Write a SQL query of unigue customers who purchased items from each category
+Q9. Write a SQL query of unique customers who purchased items from each category
 
 
 ``` SQL
